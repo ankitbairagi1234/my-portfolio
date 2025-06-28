@@ -8,13 +8,10 @@ This website showcases my professional experience, projects, certifications, and
 
 ## 🔗 Live Demo
 
-🌐 [Visit Portfolio](https://ankitb-b.netlify.app/)
+🌐 [Visit My Portfolio](https://ankitb-b.netlify.app/)
 
 ---
 
-## 📸 Screenshots
-
-*(You can add screenshots here if needed)*
 
 ---
 
@@ -43,7 +40,6 @@ This website showcases my professional experience, projects, certifications, and
 To run this project locally:
 
 ```bash
-git clone https://github.com/ankitbairagi1234/flutter-portfolio
-cd your-portfolio-repo
+git clone https://github.com/ankitbairagi1234/my-portfolio.git
 flutter pub get
 flutter run -d chrome
