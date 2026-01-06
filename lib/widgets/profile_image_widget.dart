@@ -13,7 +13,7 @@ class ProfileImageWidget extends StatelessWidget {
           height: CommonFunction.isApp(context) ? 200 : 250,
           color: Colors.grey.shade200, // Optional background
           child: Image.asset(
-            'asset/profile.png', // Ensure path matches pubspec.yaml
+            'asset/profile_4.png', // Ensure path matches pubspec.yaml
             fit: BoxFit.contain,     // Fill the oval without distortion
           ),
         ),
